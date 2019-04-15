@@ -1,0 +1,8 @@
+[submodule "branches/master"]
+	path = branches/master
+	url = https://github.com/Derp7777/CRLSTime.git
+	branch = master
+[submodule "branches/streamline-schedules"]
+	path = branches/streamline-schedules
+	url = https://github.com/Derp7777/CRLSTime.git
+	branch = streamline-schedules
